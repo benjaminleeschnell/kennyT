@@ -59,7 +59,7 @@ Gray:       #EEEEEE; */
 }
 
 .hero {
-  background-image: url(/img/climbing.svg);
+  background-image: url(../img/climbing.svg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   min-height: 500px;
