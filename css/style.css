@@ -281,7 +281,7 @@ Gray:       #EEEEEE; */
 .footer {
   min-height: 250px;
   margin-top: -120px;
-  background-color: #111;
+  background-color: #333;
 }
 
 @media (min-width: 1900px) {
