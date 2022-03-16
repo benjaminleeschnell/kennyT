@@ -283,3 +283,10 @@ Gray:       #EEEEEE; */
   margin-top: -120px;
   background-color: #111;
 }
+
+@media (min-width: 1900px) {
+  .second p,
+  .third p {
+    max-width: 800px;
+  }
+}
